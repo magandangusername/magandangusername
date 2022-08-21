@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @magandangusername, you can call me Matt
+- 👀 I’m interested in programming and playing
+- 🌱 I’m currently learning python
+- 📫 How to reach me: matts.empire.17@gmail.com
