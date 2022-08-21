@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning python
 - 📫 How to reach me: matts.empire.17@gmail.com
 
-Check out my portfolio here: magandangusername.github.io (it's still a work in progress)
+Check out my portfolio here: <a href="https://magandangusername.github.io" target="_blank">magandangusername.github.io</a> (it's still a work in progress)
